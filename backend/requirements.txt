@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python
+opencv-contrib-python
+numpy
+PyWavelets
+Pillow
+reedsolo
+scipy
+scikit-image
+aiofiles
+reedsolo
